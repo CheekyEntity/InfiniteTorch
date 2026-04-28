@@ -6,7 +6,7 @@
     <Product>InfiniteTorch</Product>
     <Authors>CheekyEntity</Authors>
     <Version>1.0.0</Version>
-    <Description>A simple welcome mod for Cave Crawlers</Description>
+    <Description>A simple quality-of-life mod for Cave Crawlers that grants torches infinite duration.</Description>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     
